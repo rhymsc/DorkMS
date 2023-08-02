@@ -1,6 +1,7 @@
 # Dorking with DorkMS
 
-Dorking with perfect tools
+dorking with the simple tool DorkMS
+
 ## Installation
 
 
