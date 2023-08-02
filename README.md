@@ -5,7 +5,16 @@ Dorking with perfect tools
 
 
 ```bash
-pip install foobar
+Git Clone https://github.com/rhymsc/DorkMS.git
+```
+```bash
+cd DorkMS
+```
+```bash
+Pip install -r requirements.txt
 ```
 
 ## Usage
+```bash
+python3 DorkMS.py
+```
